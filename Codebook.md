@@ -2,7 +2,7 @@
 Code book describing the variables in *tidy_data_set.txt*
 ---------
 We token the data from [cloudfront.net](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at [UCI. Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+representing data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at [UCI. Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 This database come from an experiment made with 30 volunteers, within an age bracket of 19-48 years, performing six differents activities  wearing a smartphone (Samsung Galaxy S II). 
 
