@@ -5,7 +5,7 @@ The script *run_analysis.R*
 Before start the scrip we dowload the zipfile from [cloudfront.net](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  and extrat it in the working directory, in a subdirectory called "UCI HAR Dataset"
 1. Merges the training and the test sets to create one data set.
 ---------------
-We read the data from the "train" and "test" folders and we merge the similiar frames: **Data** come from *x_t????.txt*, **Labels** fron *y_t????.txt*, and **sujets** from *subject_t????.txt*.
+We read the data from the "train" and "test" folders and we merge the similiar frames: **Data** come from *x_t????.txt*, **Labels** come from *y_t????.txt*, and **sujets** come from *subject_t????.txt*.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 ---------------
 From the file *features.txt* we take the names of the frame **Data** and select the **mean** and **standard deviation** for each measurement, then we Extract those measurements from **Data** frame and the associated names, in the new **Data** frame.
